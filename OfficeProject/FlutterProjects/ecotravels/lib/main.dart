@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
     // text styling for headlines, titles, bodies of text, and more.
 
     ),
-      debugShowCheckedModeBanner: false, //Removing Debug Banner
+      debugShowCheckedModeBanner: true, //Removing Debug Banner
     );
   }
 }
