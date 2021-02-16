@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916071548493",
+    "project_id": "ecotravels-ad255",
+    "storage_bucket": "ecotravels-ad255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916071548493:android:37e9922a37fee25823be04",
+        "android_client_info": {
+          "package_name": "com.ecotravels.ecotravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916071548493-fr622qf52jqbk1gtvafpkch4v7rqbg71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT8cc40higlkiJCCwV_EO6wDP2Tgu0CZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916071548493-fr622qf52jqbk1gtvafpkch4v7rqbg71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
