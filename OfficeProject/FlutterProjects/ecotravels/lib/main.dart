@@ -32,10 +32,15 @@ class MyApp extends StatelessWidget {
       // Define the default font family.
    // fontFamily: 'Georgia',
 
+
+      //added changes in my code deepak
+
+
     // Define the default TextTheme. Use this to specify the default
     // text styling for headlines, titles, bodies of text, and more.
 
     ),
+      debugShowCheckedModeBanner: false, //Removing Debug Banner
     );
   }
 }
