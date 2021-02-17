@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
           // Define the default brightness and colors.
           primaryTextTheme:
-              TextTheme(bodyText1: TextStyle(color: HexColor('#41474f')))
+              TextTheme(bodyText1: TextStyle(color: HexColor('#42474f')))
           // Define the default font family.
           // fontFamily: 'Georgia',
 
