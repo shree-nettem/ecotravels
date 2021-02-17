@@ -32,7 +32,7 @@ class _HomeState extends State<ContainerView> {
    Home(),
     PlaceholderWidget(Colors.deepOrange),
     PlaceholderWidget(Colors.green),
-    Home(),
+    PlaceholderWidget(Colors.green),
   ];
 
   @override
